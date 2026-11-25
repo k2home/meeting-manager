@@ -1,0 +1,2 @@
+# meeting-manager
+Public Version
